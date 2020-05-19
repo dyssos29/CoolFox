@@ -1,5 +1,3 @@
-![Fox picture](FoxPic.jpg)
-
 <p align="center">
   <img src="FoxPic.jpg">
 </p>
